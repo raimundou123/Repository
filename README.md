@@ -10,7 +10,7 @@ Este es el repositorio privado en donde deberás subir los talleres, actividades
 ## Datos del alumno
 | Usuario GitHub |     	Correo       | 
 |      :-:       |        :-:        |
-|     llenar     |       llenar      | 
+|     raimundou123     |       rurzua1@uc.cl      | 
 
 
 ## Videos y tutoriales
